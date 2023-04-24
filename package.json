@@ -1,0 +1,22 @@
+{
+  "name": "serverless-basic-authentication-with-python3.9",
+  "version": "0.14.1",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.22.0",
+    "jest": "^24.9.0"
+  },
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "repository": {
+    "git": "https://github.com/SiyabongaGregory/serverless-basic-authentication-with-python3.9"
+  },
+  "main": "lib/index.js",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
